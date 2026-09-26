@@ -100,9 +100,9 @@ The ESP32 and the PC must be on the same Wi-Fi network, and your firewall must a
 
 | Waiting to start | Server running |
 |---|---|
-| ![](images/Waiting_to_Start.png) | ![](images/Server_Running.png) |
+| ![](Images/Waiting_to_Start.png) | ![](Images/Server_Running.png) |
 | **Live reading** | **Connection lost (>12.5 s without data)** |
-| ![](images/Finger_Detection.png) | ![](images/Connection_Lost.png) |
+| ![](Images/Finger_Detection.png) | ![](Images/Connection_Lost.png) |
 
 ## Known limitations
 
