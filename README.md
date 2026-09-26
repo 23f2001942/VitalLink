@@ -7,7 +7,7 @@ I built it in April–May 2025 as my course project for Digital Fundamentals (BI
 > ⚠️ **Not a medical device.** This is a student learning prototype. Its readings have not been validated against reference instruments and must not be used for diagnosis or any health decision.
 
 <p align="center">
-  <img src="images/Finger_Detection.png" width="480" alt="VitalLink dashboard showing live SpO2 and temperature">
+  <img src="Images/Finger_Detection.png" width="480" alt="VitalLink dashboard showing live SpO2 and temperature">
 </p>
 
 ## How it works
